@@ -5,7 +5,7 @@ This project is a **Sudoku solver** written in C++ using **backtracking algorith
 
 ---
 
-## ✅ Features
+##  Features
 
 - Solves standard 9x9 Sudoku puzzles
 - Uses backtracking algorithm for recursive solution
@@ -13,14 +13,14 @@ This project is a **Sudoku solver** written in C++ using **backtracking algorith
 
 ---
 
-## 📂 Files
+## Files
 
 - `sudoku_solver.cpp` – Main source code file
 - You can run this file with any C++ compiler like `g++`.
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. The `solveSudoku()` function tries to fill empty cells with numbers from 1 to 9.
 2. For each number, it checks if placing it is safe:
